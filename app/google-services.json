@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8914609349",
+    "project_id": "scrapwala3-19bba",
+    "storage_bucket": "scrapwala3-19bba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8914609349:android:4f6783663cf1eb3bedbcac",
+        "android_client_info": {
+          "package_name": "com.cpimca.scrapwala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb8wjHKwfr6WAURmNhFrpdMxxntVBpNmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

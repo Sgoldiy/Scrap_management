@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Scrapwala</string>
+    <string name="onBoardingTitle1">Select scrap items for  selling</string>
+    <string name="onBoardingText1">We collect scrap from wide list  of item like Newspaper, Plastic, Iron, Electronic machine,etc. We do not pick up cloth and glass</string>
+    <string name="onBoardingTitle2">Choose a date for scrap pickup</string>
+    <string name="onBoardingText2">Choose a date when you want our executives to come for scrap pickup.</string>
+    <string name="onBoardingTitle3">Pickup Executives Will arrive at your home/ office</string>
+    <string name="onBoardingText3">Our pickup executives will call you 1 hour before coming. They will bring an electronic machine to weight each scrap item separately.</string>
+</resources>
